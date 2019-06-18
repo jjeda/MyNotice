@@ -11,6 +11,7 @@ public class MynoticeApplicationTests {
 
 	@Test
 	public void contextLoads() {
+
 	}
 
 }
